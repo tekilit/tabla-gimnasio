@@ -8,7 +8,10 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <h3>Imágenes gatitos</h3>
+    <h2>Imágenes gatitos</h2>
+    <img src="https://pixabay.com/photos/cat-animal-pet-cats-close-up-cat-300572/" alt="gatito1">
+    <h2>Video gatito</h2>
+    <h2>Sonido gatito</h2>
     
     <script src="script.js"></script>
   </body>
